@@ -11,7 +11,7 @@ export default () => (
     <span>
       <Link href="/other"><a className="button">Load another page</a></Link>
     </span>
-    <a href="https://github.com/now-examples/nextjs-static">Source Code</a>
+    <a href="https://github.com/ghjan/nextjs-static">Source Code</a>
     <a href="https://zeit.co/docs/features/static-builds">Now Static Build Docs</a>
 
 
